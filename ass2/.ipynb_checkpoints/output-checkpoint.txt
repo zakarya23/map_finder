@@ -1,0 +1,4 @@
+144.957670 -37.807620  --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+

@@ -1,0 +1,720 @@
+144.957670 -37.807620  --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620  --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620  --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620  --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620  --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620 0.005000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.005000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620 0.005000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.005000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.333000 --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620 0.005000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.005000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2016 || Block ID: 113 || Property ID: 110689 || Base Property ID: 108118 || CLUE small area: China (CBD) ||  Trading Name: Amott Quality Meats ||  Industry (ANZSIC4) code: 4121 || Industry (ANZSIC4) description: Fresh Meat, Fish and Poultry Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 113 || Property ID: 110684 || Base Property ID: 108118 || CLUE small area: Melbourne (CBD) ||  Trading Name: Spotty Dot ||  Industry (ANZSIC4) code: 4243 || Industry (ANZSIC4) description: Toy and Game Retailing || x coordinate: 144.95767 || y coordinate: -37.80762 || Location: (-37.80762, 144.95767) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Li Fine Art Studio ||  Industry (ANZSIC4) code: 9002 || Industry (ANZSIC4) description: Creative Artists, Musicians, Writers and Performers || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 15 || Property ID: 109263 || Base Property ID: 109263 || CLUE small area: Melbourne (CBD) ||  Trading Name: Ms Lynley Faye Traeger ||  Industry (ANZSIC4) code: 2591 || Industry (ANZSIC4) description: Jewellery and Silverware Manufacturing || x coordinate: 144.9667 || y coordinate: -37.81674 || Location: (-37.81674, 144.9667) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 26 || Property ID: 109418 || Base Property ID: 109418 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.96743 || y coordinate: -37.81584 || Location: (-37.81584, 144.96743) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bestec ||  Industry (ANZSIC4) code: 6923 || Industry (ANZSIC4) description: Engineering Design and Engineering Consulting Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 103935 || Base Property ID: 103935 || CLUE small area: Melbourne (CBD) ||  Trading Name: Lion Manager ||  Industry (ANZSIC4) code: 6419 || Industry (ANZSIC4) description: Other Auxiliary Finance and Investment Services || x coordinate: 144.96868 || y coordinate: -37.81619 || Location: (-37.81619, 144.96868) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Bang & Olufsen ||  Industry (ANZSIC4) code: 4229 || Industry (ANZSIC4) description: Other Electrical and Electronic Goods Retailing || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 16 || Property ID: 108532 || Base Property ID: 108532 || CLUE small area: Melbourne (CBD) ||  Trading Name: Whiskey Den ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.96925 || y coordinate: -37.81599 || Location: (-37.81599, 144.96925) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578317 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Melbourne Visitor Centre ||  Industry (ANZSIC4) code: 7530 || Industry (ANZSIC4) description: Local Government Administration || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 6 || Property ID: 578324 || Base Property ID: 573333 || CLUE small area: Melbourne (CBD) ||  Trading Name: Transit Rooftop Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.97052 || y coordinate: -37.81778 || Location: (-37.81778, 144.97052) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: City Convience Store ||  Industry (ANZSIC4) code: 4111 || Industry (ANZSIC4) description: Convenience Store || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 58 || Property ID: 103622 || Base Property ID: 103622 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97073 || y coordinate: -37.81152 || Location: (-37.81152, 144.97073) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102062 || Base Property ID: 102060 || CLUE small area: Melbourne (CBD) ||  Trading Name: Gree Melbourne ||  Industry (ANZSIC4) code: 7000 || Industry (ANZSIC4) description: Computer System Design and Related Services || x coordinate: 144.97263 || y coordinate: -37.81431 || Location: (-37.81431, 144.97263) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Dr. George Chin ||  Industry (ANZSIC4) code: 8512 || Industry (ANZSIC4) description: Specialist Medical Services || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102059 || Base Property ID: 102059 || CLUE small area: Melbourne (CBD) ||  Trading Name: Rotary Club Of Melbourne Inc ||  Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.97335 || y coordinate: -37.81384 || Location: (-37.81384, 144.97335) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: John Gribble Architects ||  Industry (ANZSIC4) code: 6921 || Industry (ANZSIC4) description: Architectural Services || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 38 || Property ID: 102174 || Base Property ID: 102174 || CLUE small area: Melbourne (CBD) ||  Trading Name: Karenlee Nominees Pty Ltd ||  Industry (ANZSIC4) code: 3211 || Industry (ANZSIC4) description: Land Development and Subdivision || x coordinate: 144.97355 || y coordinate: -37.81305 || Location: (-37.81305, 144.97355) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Weir Minerals Australia ||  Industry (ANZSIC4) code: 3419 || Industry (ANZSIC4) description: Other Specialised Industrial Machinery and Equipment Wholesaling || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 28 || Property ID: 102057 || Base Property ID: 102057 || CLUE small area: Melbourne (CBD) ||  Trading Name: Myxplor Pty Ltd ||  Industry (ANZSIC4) code: 5420 || Industry (ANZSIC4) description: Software Publishing || x coordinate: 144.97372 || y coordinate: -37.81372 || Location: (-37.81372, 144.97372) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 18 || Property ID: 108976 || Base Property ID: 108976 || CLUE small area: Melbourne (CBD) ||  Trading Name: Mercure Hotel ||  Industry (ANZSIC4) code: 4400 || Industry (ANZSIC4) description: Accommodation || x coordinate: 144.9742 || y coordinate: -37.81477 || Location: (-37.81477, 144.9742) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 106942 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 233 || Property ID: 103164 || Base Property ID: 107153 || CLUE small area: Carlton ||  Trading Name: Vacant ||  Industry (ANZSIC4) code: 0 || Industry (ANZSIC4) description: Vacant Space || x coordinate: 144.97444 || y coordinate: -37.79731 || Location: (-37.79731, 144.97444) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 235 || Property ID: 106941 || Base Property ID: 106941 || CLUE small area: Carlton ||  Trading Name: Austrian Consulate-General ||  Industry (ANZSIC4) code: 7552 || Industry (ANZSIC4) description: Foreign Government Representation || x coordinate: 144.97448 || y coordinate: -37.79865 || Location: (-37.79865, 144.97448) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: French Lettuce ||  Industry (ANZSIC4) code: 4512 || Industry (ANZSIC4) description: Takeaway Food Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106969 || Base Property ID: 106969 || CLUE small area: Carlton ||  Trading Name: Maric Goya Natural Therapies ||  Industry (ANZSIC4) code: 8539 || Industry (ANZSIC4) description: Other Allied Health Services || x coordinate: 144.97513 || y coordinate: -37.7944 || Location: (-37.7944, 144.97513) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: National Lube Carlton ||  Industry (ANZSIC4) code: 4000 || Industry (ANZSIC4) description: Fuel Retailing || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 230 || Property ID: 106980 || Base Property ID: 106980 || CLUE small area: Carlton ||  Trading Name: Celepci Brothers ||  Industry (ANZSIC4) code: 9411 || Industry (ANZSIC4) description: Automotive Electrical Services || x coordinate: 144.97535 || y coordinate: -37.79327 || Location: (-37.79327, 144.97535) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 595153 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Cohen Cellars Wine Bar ||  Industry (ANZSIC4) code: 4520 || Industry (ANZSIC4) description: Pubs, Taverns and Bars || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 613 || Property ID: 593697 || Base Property ID: 109643 || CLUE small area: East Melbourne ||  Trading Name: Gourmet Pizza Bar ||  Industry (ANZSIC4) code: 4511 || Industry (ANZSIC4) description: Cafes and Restaurants || x coordinate: 144.98562 || y coordinate: -37.81005 || Location: (-37.81005, 144.98562) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: The Catholic Leadship Centre ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 601 || Property ID: 109604 || Base Property ID: 109604 || CLUE small area: East Melbourne ||  Trading Name: Roman Catholic Church ||  Industry (ANZSIC4) code: 9540 || Industry (ANZSIC4) description: Religious Services || x coordinate: 144.99045 || y coordinate: -37.81058 || Location: (-37.81058, 144.99045) ||
+
+144.957670 -37.807620 0.222000 --> Census year: 2018 || Block ID: 602 || Property ID: 104871 || Base Property ID: 104871 || CLUE small area: East Melbourne ||  Trading Name: All Creatures On Hoddle ||  Industry (ANZSIC4) code: 6970 || Industry (ANZSIC4) description: Veterinary Services || x coordinate: 144.99055 || y coordinate: -37.81181 || Location: (-37.81181, 144.99055) ||
+
